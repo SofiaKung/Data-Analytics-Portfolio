@@ -1,5 +1,6 @@
 # My Data Analytics Projects 
 NLP on TripAdvisor Reviews
+- [Word Cloud and Topic Modelling](https://github.com/SofiaKung/Portfolio/tree/master/NLP%20on%20TripAdvisor%20Reviews)
 
 Machine Learning with Python 
 - [Hyperparameter Tuning for Detecting US Firms with Intentional Mistatement](https://github.com/SofiaKung/Portfolio/blob/master/Detecting%20Intentional%20Misstatements%20by%20US%20Corporations.ipynb)
